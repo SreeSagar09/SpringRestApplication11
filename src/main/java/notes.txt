@@ -1,0 +1,10 @@
+A Program to demonstrate the use of @MatrixVariable annotation:
+Programs:
+* AppConfig.java
+* AppInit.java
+* ApplicationController1.java
+* ApplicationController2.java
+Notes:
+* The @MatrixVariable annotation used to extract name-value pair value from web request and bind them to method arguments.
+* This annotation can be used at parameter level only.
+* The @MatrixVariable annotation is accept value, name, pathVar, required, defaultValue
